@@ -1,2 +1,3 @@
 # Restro
-restro
+Welcome to Restaurant Application Website
+
